@@ -11,7 +11,7 @@ Our workshop on truth discovery and fact-checking is motivated by the need for n
 	
 The first workshop on _Truth Discovery and Fact Checking: Theory and practice_ will provide a forum where researchers and practitioners from academia, government and industry can share insights and identify new challenges and opportunities in resolving conflicts, fact-checking and ascertaining credibility of claims.
 
-The workshop will be held in Anchorage, Alaska on August 4, 2019 in conjunction with the [https://www.kdd.org/kdd2019/](ACM SIGKDD 2019)
+The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction with the [ACM SIGKDD 2019] (https://www.kdd.org/kdd2019/).
 
 
 ## Topics of interest include, but are not limited to:##
@@ -30,9 +30,21 @@ The workshop will be held in Anchorage, Alaska on August 4, 2019 in conjunction 
 ## Submission Guidelines ##
 
 We invite submissions for original research papers both theory and application-oriented as well as submissions from the research track and applied data science track of the main conference. We also welcome case studies, extensions and applications of previously published research on the above topics of interest. We encourage the participants to submit papers on novel datasets and release them to advance the field. Papers must be submitted in PDF according to the ACM Proceedings Template (Tighter Alternate style). We welcome both long papers (maximum length of 9 pages) and short papers (maximum length of 5 pages). The accepted papers will be published on the workshop's website, and will not be considered archival for resubmission purposes. Submissions are handled through EasyChair.
-	
+
+Please email truthdiscoverykdd2019@gmail.com any questions.
+
 ## Important Dates ##
 All deadlines are 11:59 PM Pacific Standard Time
+
 Submission: May 5, 2019
+
 Decision: June 1, 2019
-Workshop date: August 4, 2019	
+
+Workshop date: August 5, 2019	
+
+## Organizers ##
+
+- [Subhabrata Mukherjee] (https://people.mpi-inf.mpg.de/~smukherjee) (Amazon)
+- [Qi Li] (https://publish.illinois.edu/qili5/) (UIUC)
+- [Cong Yu] (https://sites.google.com/site/congyu/home) (Google Research)
+- [Jiawei Han] (https://hanj.cs.illinois.edu) (UIUC)
