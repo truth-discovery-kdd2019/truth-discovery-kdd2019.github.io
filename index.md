@@ -14,7 +14,7 @@ The first workshop on _Truth Discovery and Fact Checking: Theory and practice_ w
 The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction with the [ACM SIGKDD 2019] (https://www.kdd.org/kdd2019/).
 
 
-## Topics of interest include, but are not limited to:##
+## Topics of interest include, but are not limited to##
 	
 - Truth finding and discovery 
 - Fact-checking, rumor and misinformation
