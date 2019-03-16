@@ -12,7 +12,7 @@ The first workshop on _Truth Discovery and Fact Checking: Theory and practice_ w
 The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction with the [ACM SIGKDD 2019](https://www.kdd.org/kdd2019/).
 
 
-## Topics of interest include, but are not limited to##
+## Topics of interest include, but are not limited to:
 	
 - Truth finding and discovery 
 - Fact-checking, rumor and misinformation
@@ -25,13 +25,13 @@ The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction 
 - Explainable and interpretable models
 - Heterogeneous and multi-modal information including relational data, natural language text, search logs, images, video, etc. 
 	
-## Submission Guidelines ##
+## Submission Guidelines
 
 We invite submissions for original research papers both theory and application-oriented as well as submissions from the research track and applied data science track of the main conference. We also welcome case studies, extensions and applications of previously published research on the above topics of interest. We encourage the participants to submit papers on novel datasets and release them to advance the field. Papers must be submitted in PDF according to the ACM Proceedings Template (Tighter Alternate style). We welcome both long papers (maximum length of 9 pages) and short papers (maximum length of 5 pages). The accepted papers will be published on the workshop's website, and will not be considered archival for resubmission purposes. EasyChair submission link will be available shortly.
 
 Please email truthdiscoverykdd2019@gmail.com any questions.
 
-## Important Dates ##
+## Important Dates
 All deadlines are 11:59 PM Pacific Standard Time
 
 Workshop paper submissions: May 5, 2019
@@ -40,7 +40,7 @@ Workshop paper notifications: June 1, 2019
 
 Workshop date: August 5, 2019	
 
-## Organizers ##
+## Organizers
 
 - [Subhabrata Mukherjee](https://people.mpi-inf.mpg.de/~smukherjee) (Amazon)
 - [Qi Li](https://publish.illinois.edu/qili5/) (UIUC)
