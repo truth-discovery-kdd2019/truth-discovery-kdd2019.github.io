@@ -34,9 +34,9 @@ Please email truthdiscoverykdd2019@gmail.com any questions.
 ## Important Dates ##
 All deadlines are 11:59 PM Pacific Standard Time
 
-Submission: May 5, 2019
+Workshop paper submissions: May 5, 2019
 
-Decision: June 1, 2019
+Workshop paper notifications: June 1, 2019
 
 Workshop date: August 5, 2019	
 
