@@ -27,9 +27,7 @@ The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction 
 	
 ## Submission Guidelines
 
-We invite submissions for original research papers both theory and application-oriented as well as submissions from the research track and applied data science track of the main conference. We also welcome case studies, extensions and applications of previously published research on the above topics of interest. We encourage the participants to submit papers on novel datasets and release them to advance the field. Papers must be submitted in PDF according to the ACM Proceedings Template (Tighter Alternate style). We welcome both long papers (maximum length of 9 pages) and short papers (maximum length of 5 pages). The accepted papers will be published on the workshop's website, and will not be considered archival for resubmission purposes. EasyChair submission link will be available shortly.
-
-Please email truthdiscoverykdd2019@gmail.com any questions.
+We invite submissions for original research papers both theory and application-oriented as well as submissions from the research track and applied data science track of the main conference. We welcome case studies, extensions and applications of previously published research on the above topics of interest. We encourage the participants to submit papers on novel datasets and release them to advance the field. Papers must be submitted in PDF according to the [ACM Proceedings Template (Tighter Alternate style)] (https://www.acm.org/publications/proceedings-template-16dec2016). We welcome both long papers (maximum length of 9 pages) and short papers (maximum length of 5 pages). The accepted papers will be published on the workshop's website, and will not be considered archival for resubmission purposes. Please submit your papers at the [EasyChair submission link] (https://easychair.org/conferences/?conf=truefact2019).
 
 ## Important Dates
 All deadlines are 11:59 PM Pacific Standard Time
@@ -46,3 +44,5 @@ Workshop date: August 5, 2019
 - [Qi Li](https://publish.illinois.edu/qili5/) (UIUC)
 - [Cong Yu](https://sites.google.com/site/congyu/home) (Google Research)
 - [Jiawei Han](https://hanj.cs.illinois.edu) (UIUC)
+
+Please email truthdiscoverykdd2019@gmail.com for any questions.
