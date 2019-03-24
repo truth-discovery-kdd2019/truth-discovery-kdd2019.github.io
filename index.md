@@ -17,7 +17,6 @@ The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction 
 
 ## Topics of interest include, but are not limited to:
 
-<p>
 - Truth finding and discovery 
 - Fact-checking, rumor and misinformation
 - Credibility analysis
@@ -28,7 +27,6 @@ The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction 
 - Novel data sources and case studies
 - Explainable and interpretable models
 - Heterogeneous and multi-modal information including relational data, natural language text, search logs, images, video, etc. 
-</p>
 	
 ## Submission Guidelines
 
@@ -38,7 +36,6 @@ We invite submissions for original research papers both theory and application-o
 
 ## Important Dates
 
-<p align="justify">
 All deadlines are 11:59 PM Pacific Standard Time
 
 Workshop paper submissions: May 5, 2019
@@ -46,14 +43,12 @@ Workshop paper submissions: May 5, 2019
 Workshop paper notifications: June 1, 2019
 
 Workshop date: August 5, 2019	
-</p>
 
 ## Organizers
 
-<p align="justify">
 - [Subhabrata Mukherjee](https://people.mpi-inf.mpg.de/~smukherjee) (Amazon)
 - [Qi Li](https://publish.illinois.edu/qili5/) (UIUC)
 - [Cong Yu](https://sites.google.com/site/congyu/home) (Google Research)
 - [Jiawei Han](https://hanj.cs.illinois.edu) (UIUC)
-</p>
+
 Please email truthdiscoverykdd2019@gmail.com for any questions.
