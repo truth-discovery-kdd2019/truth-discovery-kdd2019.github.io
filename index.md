@@ -35,9 +35,7 @@ The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction 
 	
 ## Submission Guidelines
 
-<p align="justify">
 We invite submissions for original research papers both theory and application-oriented as well as submissions from the research track and applied data science track of the main conference. We encourage the participants to submit papers on novel datasets and release them to advance the field. Papers must be submitted in PDF according to the [ACM Proceedings Template](https://www.acm.org/publications/proceedings-template) in a single-blind format (including author names and affiliations). We welcome both long papers (maximum length of 9 pages) and short papers (maximum length of 5 pages). The accepted papers will be published on the workshop's website, and will not be considered archival for resubmission purposes. Please submit your papers at the [EasyChair submission link](https://easychair.org/conferences/?conf=truefact2019).
-</p>
 
 ## Important Dates
 
