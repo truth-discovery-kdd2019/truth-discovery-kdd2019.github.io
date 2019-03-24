@@ -26,7 +26,8 @@ The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction 
 - Emerging applications for truth discovery and fact-checking
 - Novel data sources and case studies
 - Explainable and interpretable models
-- Heterogeneous and multi-modal information including relational data, natural language text, search logs, images, video, etc. 
+- Heterogeneous and multi-modal information including relational data, natural language text, 
+search logs, images, video, etc. 
 	
 ## Submission Guidelines
 
