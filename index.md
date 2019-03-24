@@ -7,15 +7,17 @@ In order to answer these questions, this workshop encourages submissions to focu
 
 # Call For Papers
 		
+<p align="justify">
 Our workshop on truth discovery and fact-checking is motivated by the need for new research, tools and techniques to advance the field to handle the new challenges of multi-modal and heterogeneous modern data (for example, relational data, unstructured text and natural language claims); leveraging Knowledge Bases and external evidence sources for reasoning, validating and explaining contentious claims; and developing interpretable models that can generate human-interpretable explanations as opposed to black box methods.
 	
 The first workshop on _Truth Discovery and Fact Checking: Theory and practice_ will provide a forum where researchers and practitioners from academia, government and industry can share insights and identify new challenges and opportunities in resolving conflicts, fact-checking and ascertaining credibility of claims.
 
 The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction with the [ACM SIGKDD 2019](https://www.kdd.org/kdd2019/).
-
+</p>
 
 ## Topics of interest include, but are not limited to:
-	
+
+<p>
 - Truth finding and discovery 
 - Fact-checking, rumor and misinformation
 - Credibility analysis
@@ -26,12 +28,17 @@ The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction 
 - Novel data sources and case studies
 - Explainable and interpretable models
 - Heterogeneous and multi-modal information including relational data, natural language text, search logs, images, video, etc. 
+</p>
 	
 ## Submission Guidelines
 
-We invite submissions for original research papers both theory and application-oriented as well as submissions from the research track and applied data science track of the main conference. We welcome case studies, extensions and applications of previously published research on the above topics of interest. We encourage the participants to submit papers on novel datasets and release them to advance the field. Papers must be submitted in PDF according to the [ACM Proceedings Template (Tighter Alternate style)](https://www.acm.org/publications/proceedings-template-16dec2016). We welcome both long papers (maximum length of 9 pages) and short papers (maximum length of 5 pages). The accepted papers will be published on the workshop's website, and will not be considered archival for resubmission purposes. Please submit your papers at the [EasyChair submission link](https://easychair.org/conferences/?conf=truefact2019).
+<p align="justify">
+We invite submissions for original research papers both theory and application-oriented as well as submissions from the research track and applied data science track of the main conference. We encourage the participants to submit papers on novel datasets and release them to advance the field. Papers must be submitted in PDF according to the [ACM Proceedings Template (Tighter Alternate style)](https://www.acm.org/publications/proceedings-template-16dec2016). We welcome both long papers (maximum length of 9 pages) and short papers (maximum length of 5 pages). The accepted papers will be published on the workshop's website, and will not be considered archival for resubmission purposes. Please submit your papers at the [EasyChair submission link](https://easychair.org/conferences/?conf=truefact2019).
+</p>
 
 ## Important Dates
+
+<p align="justify">
 All deadlines are 11:59 PM Pacific Standard Time
 
 Workshop paper submissions: May 5, 2019
@@ -39,12 +46,14 @@ Workshop paper submissions: May 5, 2019
 Workshop paper notifications: June 1, 2019
 
 Workshop date: August 5, 2019	
+</p>
 
 ## Organizers
 
+<p align="justify">
 - [Subhabrata Mukherjee](https://people.mpi-inf.mpg.de/~smukherjee) (Amazon)
 - [Qi Li](https://publish.illinois.edu/qili5/) (UIUC)
 - [Cong Yu](https://sites.google.com/site/congyu/home) (Google Research)
 - [Jiawei Han](https://hanj.cs.illinois.edu) (UIUC)
-
+</p>
 Please email truthdiscoverykdd2019@gmail.com for any questions.
