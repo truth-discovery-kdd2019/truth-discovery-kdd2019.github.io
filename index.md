@@ -15,6 +15,7 @@ Our workshop on truth discovery and fact-checking is motivated by the need for n
 	
 The first workshop on _Truth Discovery and Fact Checking: Theory and practice_ will provide a forum where researchers and practitioners from academia, government and industry can share insights and identify new challenges and opportunities in resolving conflicts, fact-checking and ascertaining credibility of claims.
 </p>
+
 The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction with the [ACM SIGKDD 2019](https://www.kdd.org/kdd2019/).
 
 ## Topics of interest include, but are not limited to:
