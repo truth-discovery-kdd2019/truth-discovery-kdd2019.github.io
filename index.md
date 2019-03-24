@@ -9,9 +9,10 @@ In order to answer these questions, this workshop encourages submissions to focu
 		
 <p align="justify">
 Our workshop on truth discovery and fact-checking is motivated by the need for new research, tools and techniques to advance the field with the following focus areas:
-	- Handling multi-modal and heterogeneous modern data (for example, relational data, unstructured text and natural language claims)
-	- Leveraging Knowledge Bases and external evidence sources for reasoning, validating and explaining contentious claims
-	- Developing interpretable models that can generate human-interpretable explanations as opposed to black box methods
+	
+- Handling multi-modal and heterogeneous modern data (for example, relational data, unstructured text and natural language claims)
+- Leveraging Knowledge Bases and external evidence sources for reasoning, validating and explaining contentious claims
+- Developing interpretable models that can generate human-interpretable explanations as opposed to black box methods
 	
 The first workshop on _Truth Discovery and Fact Checking: Theory and practice_ will provide a forum where researchers and practitioners from academia, government and industry can share insights and identify new challenges and opportunities in resolving conflicts, fact-checking and ascertaining credibility of claims.
 
