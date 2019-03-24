@@ -6,7 +6,7 @@ In order to answer these questions, this workshop encourages submissions to focu
 </p>
 
 # Call For Papers
-		
+<p align="justify">		
 Our workshop on truth discovery and fact-checking is motivated by the need for new research, tools and techniques to advance the field with the following focus areas:
 	
 - Handling multi-modal and heterogeneous modern data (for example, relational data, unstructured text and natural language claims)
@@ -14,7 +14,7 @@ Our workshop on truth discovery and fact-checking is motivated by the need for n
 - Developing interpretable models that can generate human-interpretable explanations as opposed to black box methods
 	
 The first workshop on _Truth Discovery and Fact Checking: Theory and practice_ will provide a forum where researchers and practitioners from academia, government and industry can share insights and identify new challenges and opportunities in resolving conflicts, fact-checking and ascertaining credibility of claims.
-
+</p>
 The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction with the [ACM SIGKDD 2019](https://www.kdd.org/kdd2019/).
 
 ## Topics of interest include, but are not limited to:
@@ -32,7 +32,6 @@ The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction 
   search logs, images, video, etc. 
 	
 ## Submission Guidelines
-
 We invite submissions for original research papers both theory and application-oriented as well as submissions from the research track and applied data science track of the main conference. We encourage the participants to submit papers on novel datasets and release them to advance the field. Papers must be submitted in PDF according to the [ACM Proceedings Template](https://www.acm.org/publications/proceedings-template) in a single-blind format (including author names and affiliations). We welcome both long papers (maximum length of 9 pages) and short papers (maximum length of 5 pages). The accepted papers will be published on the workshop's website, and will not be considered archival for resubmission purposes. Please submit your papers at the [EasyChair submission link](https://easychair.org/conferences/?conf=truefact2019).
 
 ## Important Dates
