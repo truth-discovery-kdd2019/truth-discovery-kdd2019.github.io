@@ -49,7 +49,7 @@ Workshop date: August 5, 2019
 
 ## Organizers
 
-- [Subhabrata Mukherjee](https://people.mpi-inf.mpg.de/~smukherjee) (Amazon)
+- ![[Subhabrata Mukherjee](https://people.mpi-inf.mpg.de/~smukherjee) (Amazon)](img/subho.png)
 - [Qi Li](https://publish.illinois.edu/qili5/) (UIUC)
 - [Cong Yu](https://sites.google.com/site/congyu/home) (Google Research)
 - [Jiawei Han](https://hanj.cs.illinois.edu) (UIUC)
