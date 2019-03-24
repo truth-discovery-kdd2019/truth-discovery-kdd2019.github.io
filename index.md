@@ -5,18 +5,14 @@ In recent times, the explosion of information from a variety of sources has made
 In order to answer these questions, this workshop encourages submissions to focus on big ideas for resolving conflicts, fact-checking and ascertaining credibility of claims in heterogeneous and multi-modal sources of information --- focusing both on unstructured texts, natural language claims, relational data and knowledge graphs.
 </p>
 
-# Call For Papers
-<p align="justify">		
+# Call For Papers		
 Our workshop on truth discovery and fact-checking is motivated by the need for new research, tools and techniques to advance the field with the following focus areas:
 	
 - Handling multi-modal and heterogeneous modern data (for example, relational data, unstructured text and natural language claims)
 - Leveraging Knowledge Bases and external evidence sources for reasoning, validating and explaining contentious claims
 - Developing interpretable models that can generate human-interpretable explanations as opposed to black box methods
 	
-The first workshop on _Truth Discovery and Fact Checking: Theory and practice_ will provide a forum where researchers and practitioners from academia, government and industry can share insights and identify new challenges and opportunities in resolving conflicts, fact-checking and ascertaining credibility of claims.
-</p>
-
-The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction with the [ACM SIGKDD 2019](https://www.kdd.org/kdd2019/).
+The first workshop on _Truth Discovery and Fact Checking: Theory and practice_ will provide a forum where researchers and practitioners from academia, government and industry can share insights and identify new challenges and opportunities in resolving conflicts, fact-checking and ascertaining credibility of claims. The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction with the [ACM SIGKDD 2019](https://www.kdd.org/kdd2019/).
 
 ## Topics of interest include, but are not limited to:
 
