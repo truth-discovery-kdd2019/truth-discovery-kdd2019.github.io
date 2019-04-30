@@ -35,7 +35,7 @@ We invite submissions for original research papers both theory and application-o
 
 All deadlines are 11:59 PM Pacific Standard Time
 
-Workshop paper submissions: May 15, 2019
+Workshop paper submissions: ~~May 5~~ May 15, 2019
 
 Workshop paper notifications: June 5, 2019
 
