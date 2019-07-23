@@ -5,6 +5,14 @@ In recent times, the explosion of information from a variety of sources has made
 In order to answer these questions, this workshop encourages submissions to focus on big ideas for resolving conflicts, fact-checking and ascertaining credibility of claims in heterogeneous and multi-modal sources of information --- focusing both on unstructured texts, natural language claims, relational data and knowledge graphs.
 </p>
 
+# Program Schedule
+| Time | Event |
+| --- | --- |
+| 1.00 | Opening |
+| --- | --- |
+| 1.05 | Keynote 1: Xin Luna Dong (Principal Scientist, Amazon USA) |
+
+
 # Call For Papers		
 Our workshop on truth discovery and fact-checking is motivated by the need for new research, tools and techniques to advance the field with the following focus areas:
 	
@@ -35,11 +43,53 @@ We invite submissions for original research papers both theory and application-o
 
 All deadlines are 11:59 PM Pacific Standard Time
 
-Workshop paper submissions: ~~May 5~~ May 15, 2019
+Workshop paper submissions: ~~May 15, 2019
 
-Workshop paper notifications: June 5, 2019
+Workshop paper notifications: ~~June 5, 2019
 
 Workshop date: August 5, 2019	
+
+## Organizers
+
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="https://people.mpi-inf.mpg.de/~smukherjee/">
+    <img alt="Subhabrata Mukherjee" src="https://people.mpi-inf.mpg.de/~smukherjee/subhabratamukherjee1.jpg">
+    </a><br>
+    <a href="https://people.mpi-inf.mpg.de/~smukherjee/">Subhabrata Mukherjee</a><br>
+    Microsoft Research
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="https://publish.illinois.edu/qili5/">
+    <img alt="Qi Li" src="https://publish.illinois.edu/qili5/files/2017/12/home-768x576.jpg">
+    </a><br>
+  <a href="https://publish.illinois.edu/qili5/">Qi Li</a><br>
+    UIUC 
+  </div>
+        
+  <div style="width:22.5%">
+    <a href="https://sites.google.com/site/congyu/home">
+    <img alt="Cong Yu" src="https://ona17.journalists.org/wp-content/uploads/sites/11/2017/10/cong-yu.png">
+    </a><br>
+  <a href="https://sites.google.com/site/congyu/home">Cong Yu</a><br>
+Google Research
+  </div>
+
+  <div style="width:2.5%">
+  </div>
+
+  <div style="width:22.5%">
+    <a href="http://hanj.cs.illinois.edu/">
+    <img alt="Jiawei Han" src="http://hanj.cs.illinois.edu/images/hanj_tour.jpg">
+    </a><br>
+  <a href="http://hanj.cs.illinois.edu/">Jiawei Han</a><br>
+    UIUC
+  </div>
+</div>
 
 ## Organizers
 
