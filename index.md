@@ -7,7 +7,7 @@ In order to answer these questions, this workshop encourages submissions to focu
 
 # Program Schedule
 
-| Time \(pm\) |  Event |
+| Time |  Event |
 | 1.00 | Opening Remarks |
 | 1.05 | **Keynote 1** - Prof. Jing Gao (University at Buffalo), *Mining Reliable Information from Crowdsourced Data* |
 | 1.50 | *Contributed Talk* - Kai Shu (Arizona State University), [*dEFEND: Explainable Fake News Detection*](http://pike.psu.edu/publications/kdd19.pdf) |
