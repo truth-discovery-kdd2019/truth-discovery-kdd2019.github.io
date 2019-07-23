@@ -7,15 +7,14 @@ In order to answer these questions, this workshop encourages submissions to focu
 
 # Program Schedule
 
-| Time |  Event |
-| ---------- |---------|
-| 1.00 | Opening Remarks|
-| 1.05 | **Keynote 1** - Prof. Jing Gao (University at Buffalo), *Mining Reliable Information from Crowdsourced Data*|
-| 1.50 | *Contributed Talk* - Kai Shu (Arizona State University), [*dEFEND: Explainable Fake News Detection*](http://pike.psu.edu/publications/kdd19.pdf)|
-| 2.10 | *Workshop Paper* - [*D-FJ: Deep Neural Network Based Factuality Judgment*](papers/dfj.pdf), Ankan Mullick, Sourav Pal, Projjal Chanda, Arijit Panigrahy, Anurag Bharadwaj and Siddhant Singh|
-| 2.20 | **Spotlight  1** - Qi Li (UIUC), *Truth Discovery for Information Extraction*|
-| 2.45 | Coffee Break|
-| 3.00 | **Keynote 2** - Xin Luna Dong (Principal Scientist, Amazon USA), *Demeter: Harvesting knowledge from the semi-structured web*
+| **Time** |  **Event** |
+| 1.00 | Opening Remarks |
+| 1.05 | **Keynote 1** - Prof. Jing Gao (University at Buffalo), *Mining Reliable Information from Crowdsourced Data* |
+| 1.50 | *Contributed Talk* - Kai Shu (Arizona State University), [*dEFEND: Explainable Fake News Detection*](http://pike.psu.edu/publications/kdd19.pdf) |
+| 2.10 | *Workshop Paper* - [*D-FJ: Deep Neural Network Based Factuality Judgment*](papers/dfj.pdf), Ankan Mullick, Sourav Pal, Projjal Chanda, Arijit Panigrahy, Anurag Bharadwaj and Siddhant Singh |
+| 2.20 | **Spotlight  1** - Qi Li (UIUC), *Truth Discovery for Information Extraction* |
+| 2.45 | Coffee Break |
+| 3.00 | **Keynote 2** - Xin Luna Dong (Principal Scientist, Amazon USA), *Demeter: Harvesting knowledge from the semi-structured web* |
 | 3.45 | *Workshop Paper* - [*CrossLang: the system of cross-lingual plagiarism detection*](papers/crosslang.pdf), Oleg Bakhteev, Alexandr Ogaltsov, Andrey Khazov, Kamil Safin and Rita Kuznetsova |
 | 4.05 | **Spotlight2** - Subhabrata Mukherjee (Microsoft Research), *Fact Checking Natural Language Claims* |
 | 4.30 | *Workshop Paper* - [*Localizing the Rumor Source in a Network*](papers/localizing-information.pdf), Guanyu Nie and Christopher Quinn |
