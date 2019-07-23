@@ -91,11 +91,4 @@ Google Research
   </div>
 </div>
 
-## Organizers
-
-- [Subhabrata Mukherjee](https://people.mpi-inf.mpg.de/~smukherjee) (Microsoft Research)
-- [Qi Li](https://publish.illinois.edu/qili5/) (UIUC)
-- [Cong Yu](https://sites.google.com/site/congyu/home) (Google Research)
-- [Jiawei Han](https://hanj.cs.illinois.edu) (UIUC)
-
 Please email <truthdiscoverykdd2019@gmail.com> for any questions.
