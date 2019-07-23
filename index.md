@@ -6,6 +6,7 @@ In order to answer these questions, this workshop encourages submissions to focu
 </p>
 
 # Program Schedule
+
 | Time |  Event |
 | ---------- |---------|
 | 1.00 | Opening Remarks|
