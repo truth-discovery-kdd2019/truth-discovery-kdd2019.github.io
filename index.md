@@ -7,16 +7,16 @@ In order to answer these questions, this workshop encourages submissions to focu
 
 # Program Schedule
 
-| Time |  Event |
+| Start Time (pm) |  Event |
 | 1.00 | Opening Remarks |
 | 1.05 | **Keynote 1** - Prof. Jing Gao (University at Buffalo), *Mining Reliable Information from Crowdsourced Data* |
 | 1.50 | *Contributed Talk* - Kai Shu (Arizona State University), [*dEFEND: Explainable Fake News Detection*](http://pike.psu.edu/publications/kdd19.pdf) |
 | 2.10 | *Workshop Paper* - [*D-FJ: Deep Neural Network Based Factuality Judgment*](papers/dfj.pdf), Ankan Mullick, Sourav Pal, Projjal Chanda, Arijit Panigrahy, Anurag Bharadwaj and Siddhant Singh |
-| 2.20 | **Spotlight  1** - Qi Li (UIUC), *Truth Discovery for Information Extraction* |
+| 2.20 | **Spotlight  1** - Subhabrata Mukherjee (Microsoft Research), *Fact Checking Natural Language Claims* |
 | 2.45 | Coffee Break |
 | 3.00 | **Keynote 2** - Xin Luna Dong (Principal Scientist, Amazon USA), *Demeter: Harvesting knowledge from the semi-structured web* |
 | 3.45 | *Workshop Paper* - [*CrossLang: the system of cross-lingual plagiarism detection*](papers/crosslang.pdf), Oleg Bakhteev, Alexandr Ogaltsov, Andrey Khazov, Kamil Safin and Rita Kuznetsova |
-| 4.05 | **Spotlight2** - Subhabrata Mukherjee (Microsoft Research), *Fact Checking Natural Language Claims* |
+| 4.05 | **Spotlight 2** -  | Qi Li (UIUC), *Truth Discovery for Information Extraction* |
 | 4.30 | *Workshop Paper* - [*Localizing the Rumor Source in a Network*](papers/localizing-information.pdf), Guanyu Nie and Christopher Quinn |
 | 4.40 | *Workshop Paper* - [*AuthIntegrate: Toward Combating False Data on the Internet*](papers/authintegrate.pdf), Romila Pradhan and Sunil Prabhakar|
 | 4.50 | *Workshop Paper* - [*A Data Set of Internet Claims and Comparison of their Sentiments with Credibility*](papers/dataset-internet-claims.pdf), Amey Parundekar, Susan Elias and Ashwin Ashok|
@@ -63,7 +63,7 @@ Workshop date: August 5, 2019
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://people.mpi-inf.mpg.de/~smukherjee/">
-    <img alt="Subhabrata Mukherjee" src="https://people.mpi-inf.mpg.de/~smukherjee/subhabratamukherjee1.jpg" width="160" height="200">
+    <img alt="Subhabrata Mukherjee" src="https://people.mpi-inf.mpg.de/~smukherjee/subhabratamukherjee1.jpg" width="160" height="190">
     </a><br>
     <a href="https://people.mpi-inf.mpg.de/~smukherjee/">Subhabrata Mukherjee</a><br>
     Microsoft Research
@@ -74,7 +74,7 @@ Workshop date: August 5, 2019
   
   <div style="width:22.5%">
     <a href="https://publish.illinois.edu/qili5/">
-    <img alt="Qi Li" src="https://publish.illinois.edu/qili5/files/2017/12/home-768x576.jpg" width="190" height="200">
+    <img alt="Qi Li" src="https://publish.illinois.edu/qili5/files/2017/12/home-768x576.jpg" width="190" height="190">
     </a><br>
   <a href="https://publish.illinois.edu/qili5/">Qi Li</a><br>
     UIUC 
@@ -82,7 +82,7 @@ Workshop date: August 5, 2019
         
   <div style="width:22.5%">
     <a href="https://sites.google.com/site/congyu/home">
-    <img alt="Cong Yu" src="https://ona17.journalists.org/wp-content/uploads/sites/11/2017/10/cong-yu.png" width="190" height="200">
+    <img alt="Cong Yu" src="https://ona17.journalists.org/wp-content/uploads/sites/11/2017/10/cong-yu.png" width="190" height="190">
     </a><br>
   <a href="https://sites.google.com/site/congyu/home">Cong Yu</a><br>
 Google Research
@@ -93,7 +93,7 @@ Google Research
 
   <div style="width:22.5%">
     <a href="http://hanj.cs.illinois.edu/">
-    <img alt="Jiawei Han" src="http://hanj.cs.illinois.edu/images/hanj_tour.jpg" width="170" height="200">
+    <img alt="Jiawei Han" src="http://hanj.cs.illinois.edu/images/hanj_tour.jpg" width="170" height="190">
     </a><br>
   <a href="http://hanj.cs.illinois.edu/">Jiawei Han</a><br>
     UIUC
