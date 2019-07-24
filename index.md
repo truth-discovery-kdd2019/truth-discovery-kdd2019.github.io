@@ -7,7 +7,7 @@ In order to answer these questions, this workshop encourages submissions to focu
 
 # Program Schedule
 
-| Start Time (pm) |  Event |
+| Time (pm) |  Event |
 | 1.00 | Opening Remarks |
 | 1.05 | **Keynote 1** - Prof. Jing Gao (University at Buffalo), *Mining Reliable Information from Crowdsourced Data* |
 | 1.50 | *Contributed Talk* - Kai Shu (Arizona State University), [*dEFEND: Explainable Fake News Detection*](http://pike.psu.edu/publications/kdd19.pdf) |
@@ -80,6 +80,10 @@ Workshop date: August 5, 2019
     UIUC 
   </div>
         
+<div style="width:2.5%">
+  </div>
+
+	
   <div style="width:22.5%">
     <a href="https://sites.google.com/site/congyu/home">
     <img alt="Cong Yu" src="https://ona17.journalists.org/wp-content/uploads/sites/11/2017/10/cong-yu.png" width="190" height="190">
