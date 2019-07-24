@@ -61,7 +61,7 @@ Workshop date: August 5, 2019
 ## Organizers
 
 <div style="display: flex">
-  <div style="width:22.5%, height:auto">
+  <div style="width:22.5%,height:auto">
     <a href="https://people.mpi-inf.mpg.de/~smukherjee/">
     <img alt="Subhabrata Mukherjee" src="https://people.mpi-inf.mpg.de/~smukherjee/subhabratamukherjee1.jpg" width="160" height="190">
     </a><br>
@@ -72,7 +72,7 @@ Workshop date: August 5, 2019
   <div style="width:2.5%">
   </div>
   
-  <div style="width:22.5%, height:auto">
+  <div style="width:22.5%,height:auto">
     <a href="https://publish.illinois.edu/qili5/">
     <img alt="Qi Li" src="https://publish.illinois.edu/qili5/files/2017/12/home-768x576.jpg" width="190" height="190">
     </a><br>
@@ -84,7 +84,7 @@ Workshop date: August 5, 2019
   </div>
 
 	
-  <div style="width:22.5%", height:auto>
+  <div style="width:22.5%,height:auto">
     <a href="https://sites.google.com/site/congyu/home">
     <img alt="Cong Yu" src="https://ona17.journalists.org/wp-content/uploads/sites/11/2017/10/cong-yu.png" width="190" height="190">
     </a><br>
@@ -95,7 +95,7 @@ Google Research
   <div style="width:2.5%">
   </div>
 
-  <div style="width:22.5%", height:auto>
+  <div style="width:22.5%,height:auto">
     <a href="http://hanj.cs.illinois.edu/">
     <img alt="Jiawei Han" src="http://hanj.cs.illinois.edu/images/hanj_tour.jpg" width="170" height="190">
     </a><br>
