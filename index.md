@@ -16,7 +16,7 @@ In order to answer these questions, this workshop encourages submissions to focu
 | 2.45 | Coffee Break |
 | 3.00 | **Keynote 2** - Xin Luna Dong (Principal Scientist, Amazon USA), *Demeter: Harvesting knowledge from the semi-structured web* |
 | 3.45 | *Workshop Paper* - [*CrossLang: the system of cross-lingual plagiarism detection*](papers/crosslang.pdf), Oleg Bakhteev, Alexandr Ogaltsov, Andrey Khazov, Kamil Safin and Rita Kuznetsova |
-| 4.05 | **Spotlight 2** -  | Qi Li (UIUC), *Truth Discovery for Information Extraction* |
+| 4.05 | **Spotlight 2** - Qi Li (UIUC), *Truth Discovery for Information Extraction* |
 | 4.30 | *Workshop Paper* - [*Localizing the Rumor Source in a Network*](papers/localizing-information.pdf), Guanyu Nie and Christopher Quinn |
 | 4.40 | *Workshop Paper* - [*AuthIntegrate: Toward Combating False Data on the Internet*](papers/authintegrate.pdf), Romila Pradhan and Sunil Prabhakar|
 | 4.50 | *Workshop Paper* - [*A Data Set of Internet Claims and Comparison of their Sentiments with Credibility*](papers/dataset-internet-claims.pdf), Amey Parundekar, Susan Elias and Ashwin Ashok|
