@@ -13,7 +13,7 @@ In order to answer these questions, this workshop encourages submissions to focu
 | 2.00 | *Contributed Talk* - Kai Shu (Arizona State University), [*dEFEND: Explainable Fake News Detection*](http://pike.psu.edu/publications/kdd19.pdf) |
 | 2.20 | **Spotlight  1** - [Subhabrata Mukherjee (Microsoft Research)](https://www.microsoft.com/en-us/research/people/submukhe/), *Fact Checking Natural Language Claims* |
 | 2.40 | Coffee Break |
-| 3.00 | **Keynote 3** - [Xin Luna Dong (Principal Scientist, Amazon USA)](http://lunadong.com), *Demeter: Harvesting knowledge from the semi-structured web* |
+| 3.00 | **Keynote 2** - [Xin Luna Dong (Principal Scientist, Amazon USA)](http://lunadong.com), *Demeter: Harvesting knowledge from the semi-structured web* |
 | 3.40 | *Workshop Paper* - [*CrossLang: the system of cross-lingual plagiarism detection*](papers/crosslang.pdf), Oleg Bakhteev, Alexandr Ogaltsov, Andrey Khazov, Kamil Safin and Rita Kuznetsova |
 | 4.00 | **Spotlight 2** - [Qi Li (UIUC)](https://publish.illinois.edu/qili5/), *Truth Discovery for Information Extraction* |
 | 4.20 | *Workshop Paper* - [*D-FJ: Deep Neural Network Based Factuality Judgment*](papers/dfj.pdf), Ankan Mullick, Sourav Pal, Projjal Chanda, Arijit Panigrahy, Anurag Bharadwaj and Siddhant Singh |
