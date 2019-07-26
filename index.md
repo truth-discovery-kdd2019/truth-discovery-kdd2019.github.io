@@ -8,15 +8,15 @@ In order to answer these questions, this workshop encourages submissions to focu
 # Program Schedule
 
 | Time (pm) |  Event |
-| 1.00 | Opening Remarks |
-| 1.05 | **Keynote 1** - [Xin Luna Dong (Principal Scientist, Amazon USA)](http://lunadong.com), *Demeter: Harvesting knowledge from the semi-structured web* |
-| 1.50 | *Contributed Talk* - Kai Shu (Arizona State University), [*dEFEND: Explainable Fake News Detection*](http://pike.psu.edu/publications/kdd19.pdf) |
-| 2.10 | *Workshop Paper* - [*D-FJ: Deep Neural Network Based Factuality Judgment*](papers/dfj.pdf), Ankan Mullick, Sourav Pal, Projjal Chanda, Arijit Panigrahy, Anurag Bharadwaj and Siddhant Singh |
+| 1.00 | **Keynote 1** - [Prof. Jiawei Han (UIUC)](http://hanj.cs.illinois.edu/) |
+| 1.35 | **Invited Speaker** - [Emre Kiciman (Microsoft Research)](https://www.microsoft.com/en-us/research/people/emrek/) |
+| 2.00 | *Contributed Talk* - Kai Shu (Arizona State University), [*dEFEND: Explainable Fake News Detection*](http://pike.psu.edu/publications/kdd19.pdf) |
 | 2.20 | **Spotlight  1** - [Subhabrata Mukherjee (Microsoft Research)](https://www.microsoft.com/en-us/research/people/submukhe/), *Fact Checking Natural Language Claims* |
-| 2.45 | Coffee Break |
-| 3.00 | **Keynote 2** - TBD |
-| 3.45 | *Workshop Paper* - [*CrossLang: the system of cross-lingual plagiarism detection*](papers/crosslang.pdf), Oleg Bakhteev, Alexandr Ogaltsov, Andrey Khazov, Kamil Safin and Rita Kuznetsova |
-| 4.05 | **Spotlight 2** - [Qi Li (UIUC)](https://publish.illinois.edu/qili5/), *Truth Discovery for Information Extraction* |
+| 2.40 | Coffee Break |
+| 3.00 | **Keynote 3** - [Xin Luna Dong (Principal Scientist, Amazon USA)](http://lunadong.com), *Demeter: Harvesting knowledge from the semi-structured web* |
+| 3.40 | *Workshop Paper* - [*CrossLang: the system of cross-lingual plagiarism detection*](papers/crosslang.pdf), Oleg Bakhteev, Alexandr Ogaltsov, Andrey Khazov, Kamil Safin and Rita Kuznetsova |
+| 4.00 | **Spotlight 2** - [Qi Li (UIUC)](https://publish.illinois.edu/qili5/), *Truth Discovery for Information Extraction* |
+| 4.20 | *Workshop Paper* - [*D-FJ: Deep Neural Network Based Factuality Judgment*](papers/dfj.pdf), Ankan Mullick, Sourav Pal, Projjal Chanda, Arijit Panigrahy, Anurag Bharadwaj and Siddhant Singh |
 | 4.30 | *Workshop Paper* - [*Localizing the Rumor Source in a Network*](papers/localizing-information.pdf), Guanyu Nie and Christopher Quinn |
 | 4.40 | *Workshop Paper* - [*AuthIntegrate: Toward Combating False Data on the Internet*](papers/authintegrate.pdf), Romila Pradhan and Sunil Prabhakar|
 | 4.50 | *Workshop Paper* - [*A Data Set of Internet Claims and Comparison of their Sentiments with Credibility*](papers/dataset-internet-claims.pdf), Amey Parundekar, Susan Elias and Ashwin Ashok|
@@ -52,9 +52,9 @@ We invite submissions for original research papers both theory and application-o
 
 All deadlines are 11:59 PM Pacific Standard Time
 
-Workshop paper submissions: ~~May 15, 2019
+Workshop paper submissions: May 15, 2019
 
-Workshop paper notifications: ~~June 5, 2019
+Workshop paper notifications: June 5, 2019
 
 Workshop date: August 5, 2019	
 
