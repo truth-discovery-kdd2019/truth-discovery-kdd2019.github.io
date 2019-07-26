@@ -8,7 +8,7 @@ In order to answer these questions, this workshop encourages submissions to focu
 # Program Schedule
 
 | Time (pm) |  Event |
-| 1.00 | **Keynote 1** - [Prof. Jiawei Han (UIUC)](http://hanj.cs.illinois.edu/) |
+| 1.00 | **Opening + Keynote 1** - [Prof. Jiawei Han (UIUC)](http://hanj.cs.illinois.edu/) |
 | 1.35 | **Invited Speaker** - [Emre Kiciman (Microsoft Research)](https://www.microsoft.com/en-us/research/people/emrek/) |
 | 2.00 | *Contributed Talk* - Kai Shu (Arizona State University), [*dEFEND: Explainable Fake News Detection*](http://pike.psu.edu/publications/kdd19.pdf) |
 | 2.20 | **Spotlight  1** - [Subhabrata Mukherjee (Microsoft Research)](https://www.microsoft.com/en-us/research/people/submukhe/), *Fact Checking Natural Language Claims* |
@@ -20,7 +20,7 @@ In order to answer these questions, this workshop encourages submissions to focu
 | 4.30 | *Workshop Paper* - [*Localizing the Rumor Source in a Network*](papers/localizing-information.pdf), Guanyu Nie and Christopher Quinn |
 | 4.40 | *Workshop Paper* - [*AuthIntegrate: Toward Combating False Data on the Internet*](papers/authintegrate.pdf), Romila Pradhan and Sunil Prabhakar|
 | 4.50 | *Workshop Paper* - [*A Data Set of Internet Claims and Comparison of their Sentiments with Credibility*](papers/dataset-internet-claims.pdf), Amey Parundekar, Susan Elias and Ashwin Ashok|
-
+| 5.00 | *Closing* |
 
 # Call For Papers		
 Our workshop on truth discovery and fact-checking is motivated by the need for new research, tools and techniques to advance the field with the following focus areas:
