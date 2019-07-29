@@ -107,7 +107,7 @@ Google Research
 
 Please email <truthdiscoverykdd2019@gmail.com> for any questions.
 
-**Program Committee**
+## Program Committee
 
 Evangelos Papalexakis, University of California Riverside
 Fenglong Ma, The Pennsylvania State University
