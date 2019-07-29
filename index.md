@@ -143,4 +143,4 @@ Shi Zhi, University of Illinois at Urbana-Champaign
 
 Srijan Kumar, Stanford University
 
-Yaliang	Li	Tencent America
+Yaliang	Li, Tencent America
