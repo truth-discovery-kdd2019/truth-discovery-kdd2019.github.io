@@ -110,20 +110,37 @@ Please email <truthdiscoverykdd2019@gmail.com> for any questions.
 ## Program Committee
 
 Evangelos Papalexakis, University of California Riverside
+
 Fenglong Ma, The Pennsylvania State University
+
 Gensheng Zhang, University of Texas at Arlington
+
 Gerhard Weikum, Max Planck Institute for Informatics
+
 Jiliang Tang, Michigan State University
+
 Jun Yang, Duke University
+
 Kashyap Popat, Max Planck Institute for Informatics
+
 Lu Su, The State University of New York at Buffalo
+
 Manuel Gomez Rodriguez, MPI for Software Systems
+
 Meng Jiang, University of Notre Dame
+
 Naeemul Hassan, University of Mississippi
+
 Niloy Ganguly, Indian Institute of Technology Kharagpur
+
 Panagiotis Metaxas, Wellesley College
+
 Paolo Papotti, Eurecom
+
 Prashant Shiralkar, Amazon
+
 Shi Zhi, University of Illinois at Urbana-Champaign
+
 Srijan Kumar, Stanford University
+
 Yaliang	Li	Tencent America
