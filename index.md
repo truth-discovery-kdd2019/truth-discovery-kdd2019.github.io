@@ -9,7 +9,7 @@ In order to answer these questions, this workshop encourages submissions to focu
 
 | Time (pm) |  Event |
 | 1.00 | *Opening* |
-| 1.05 | **Keynote 1** - [Emre Kiciman (Sr. Principal Researcher, Microsoft Research)](https://www.microsoft.com/en-us/research/people/emrek/) |
+| 1.05 | **Keynote 1** - [Emre Kiciman (Sr. Principal Researcher, Microsoft Research)](https://www.microsoft.com/en-us/research/people/emrek/), *Detecting the Missing Information in Misinformation* |
 | 1.40 | *Contributed Talk* - Kai Shu (Arizona State University), [*dEFEND: Explainable Fake News Detection*](http://pike.psu.edu/publications/kdd19.pdf) |
 | 2.00 | **Spotlight  1** - [Subhabrata Mukherjee (Sr. Research Scientist, Microsoft Research)](https://www.microsoft.com/en-us/research/people/submukhe/), *Fact Checking Natural Language Claims* |
 | 2.20 | [*D-FJ: Deep Neural Network Based Factuality Judgment*](papers/dfj.pdf), Ankan Mullick, Sourav Pal, Projjal Chanda, Arijit Panigrahy, Anurag Bharadwaj and Siddhant Singh |
