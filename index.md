@@ -9,15 +9,15 @@ In order to answer these questions, this workshop encourages submissions to focu
 
 | Time (pm) |  Event |
 | 1.00 | *Opening* |
-| 1.05 | **Keynote 1** - [Prof. Jiawei Han (UIUC)](http://hanj.cs.illinois.edu/) |
-| 1.35 | *Contributed Talk* - Kai Shu (Arizona State University), [*dEFEND: Explainable Fake News Detection*](http://pike.psu.edu/publications/kdd19.pdf) |
-| 1.55 | **Spotlight  1** - [Subhabrata Mukherjee (Sr. Research Scientist, Microsoft Research)](https://www.microsoft.com/en-us/research/people/submukhe/), *Fact Checking Natural Language Claims* |
-| 2.15 | *Workshop Paper* - [*CrossLang: the system of cross-lingual plagiarism detection*](papers/crosslang.pdf), Oleg Bakhteev, Alexandr Ogaltsov, Andrey Khazov, Kamil Safin and Rita Kuznetsova |
-| 2.35 | Coffee Break |
-| 3.00 | **Keynote 2** - [Emre Kiciman (Sr. Principal Researcher, Microsoft Research)](https://www.microsoft.com/en-us/research/people/emrek/) |
-| 3.30 | **Keynote 3** - [Xin Luna Dong (Principal Scientist, Amazon USA)](http://lunadong.com), *Demeter: Harvesting knowledge from the semi-structured web* |
-| 4.00 | **Spotlight 2** - [Qi Li (UIUC)](https://publish.illinois.edu/qili5/), *Truth Discovery for Information Extraction* |
-| 4.20 | *Workshop Paper* - [*D-FJ: Deep Neural Network Based Factuality Judgment*](papers/dfj.pdf), Ankan Mullick, Sourav Pal, Projjal Chanda, Arijit Panigrahy, Anurag Bharadwaj and Siddhant Singh |
+| 1.05 | **Keynote 1** - [Emre Kiciman (Sr. Principal Researcher, Microsoft Research)](https://www.microsoft.com/en-us/research/people/emrek/) |
+| 1.40 | *Contributed Talk* - Kai Shu (Arizona State University), [*dEFEND: Explainable Fake News Detection*](http://pike.psu.edu/publications/kdd19.pdf) |
+| 2.00 | **Spotlight  1** - [Subhabrata Mukherjee (Sr. Research Scientist, Microsoft Research)](https://www.microsoft.com/en-us/research/people/submukhe/), *Fact Checking Natural Language Claims* |
+| 2.20 | [*D-FJ: Deep Neural Network Based Factuality Judgment*](papers/dfj.pdf), Ankan Mullick, Sourav Pal, Projjal Chanda, Arijit Panigrahy, Anurag Bharadwaj and Siddhant Singh |
+| 2.30 | Coffee Break |
+| 3.00 | **Keynote 2** - [Prof. Jiawei Han (UIUC)](http://hanj.cs.illinois.edu/) |
+| 3.20 | **Keynote 3** - [Xin Luna Dong (Principal Scientist, Amazon USA)](http://lunadong.com), *Demeter: Harvesting knowledge from the semi-structured web* |
+| 3.50 | **Spotlight 2** - [Qi Li (UIUC)](https://publish.illinois.edu/qili5/), *Truth Discovery for Information Extraction* |
+| 4.10 | *Workshop Paper* - *Workshop Paper* - [*CrossLang: the system of cross-lingual plagiarism detection*](papers/crosslang.pdf), Oleg Bakhteev, Alexandr Ogaltsov, Andrey Khazov, Kamil Safin and Rita Kuznetsova |
 | 4.30 | *Workshop Paper* - [*Localizing the Rumor Source in a Network*](papers/localizing-information.pdf), Guanyu Nie and Christopher Quinn |
 | 4.40 | *Workshop Paper* - [*AuthIntegrate: Toward Combating False Data on the Internet*](papers/authintegrate.pdf), Romila Pradhan and Sunil Prabhakar|
 | 4.50 | *Workshop Paper* - [*A Data Set of Internet Claims and Comparison of their Sentiments with Credibility*](papers/dataset-internet-claims.pdf), Amey Parundekar, Susan Elias and Ashwin Ashok|
